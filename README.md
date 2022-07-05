@@ -1,4 +1,4 @@
-# Hackerrank-Java2
+# Hackerrank-Java2-Java Stdin and Stdout I
 Problem 2 of HackerRank Java
 
 import java.util.*;
