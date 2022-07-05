@@ -1,5 +1,6 @@
 # Hackerrank-Java2
 Problem 2 of HackerRank Java
+
 import java.util.*;
 
 public class Solution {
